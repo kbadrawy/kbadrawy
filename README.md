@@ -13,7 +13,7 @@
 <!-- ### :woman_technologist: About Me : -->
 I am a senior computer science engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, former software enginering intern at Meta.
 
-- 👀 Lokking for oppurtunities in software engineering.
+- 👀 Looking for oppurtunities in software engineering.
 
 <!-- - :zap: In my free time, I solve problems on Codeforces and learn new about new topics. -->
 
