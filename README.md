@@ -18,7 +18,7 @@ I am a senior computer science engineering student <img src="https://media.giphy
 <!-- - :zap: In my free time, I solve problems on Codeforces and learn new about new topics. -->
 
 - :mailbox:How to reach me:
-<div id="badges" align="start">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/khadija-badrawy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
